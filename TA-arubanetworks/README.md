@@ -11,7 +11,7 @@ Version 0.1
 
 Features:
 - Sourcetypes and Indexes have been defined
-- Field extractions for Error Subsystem and Error Number
+- Field extractions for Error Subsystem, Error Numbera and Error Severity
 
 To Do list:  
 - Field extraction to extract the error message.
