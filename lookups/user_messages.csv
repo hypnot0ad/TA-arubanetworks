@@ -1,0 +1,5 @@
+ErrorID,Message,Description,Action
+<522028>,"MAC=[mac:%s] Assigned VLAN [v1:%d] is not configured, using default VLAN [v2:%d].","No description available.",""
+<199802>,"[function:%s], [file:%s]:[line:%d]: [error:%s]","This log indicates that we encountered an internal security error.","Contact your support provider."
+<304011>,"stop_signal - Why was I called ... exiting.","No description available.", 
+<399803>,"An internal system error has occurred at file [file:%s] function [function:%s] line [line:%d] error [error:%s].","This log indicates that we encountered an internal system error.","Contact your support provider."
