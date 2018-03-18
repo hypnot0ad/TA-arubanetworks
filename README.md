@@ -1,7 +1,3 @@
-# TA-arubanetworks
-by Nicholas Stone
-nickston3@gmail.com
-
 Splunk Technology add-on to enhance the syslog messages indexed from Aruba Controllers and Instant Access Points.
 
 Currently this TA is under construction/work in progress/pre-release. Please contact me if you wish to use this TA.
